@@ -4,8 +4,6 @@ Extracted system prompts, system messages, and developer instructions from popul
 
 Updated regularly with new models and versions. PRs welcome.
 
-<a href="https://trendshift.io/repositories/14577" target="_blank"><img src="https://trendshift.io/api/badge/repositories/14577" alt="asgeirtj%2Fsystem_prompts_leaks | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
-
 [![License: MIT](https://img.shields.io/github/license/asgeirtj/system_prompts_leaks?color=blue)](LICENSE)
 
 
