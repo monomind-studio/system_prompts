@@ -8,10 +8,6 @@ Updated regularly with new models and versions. PRs welcome.
 
 [![License: MIT](https://img.shields.io/github/license/asgeirtj/system_prompts_leaks?color=blue)](LICENSE)
 
-<img width="1280" height="640" alt="System prompts collection from ChatGPT, Claude, Gemini, Grok and other AI chatbots" src="https://github.com/user-attachments/assets/0037a6c5-2ae4-4d34-8be0-0d679773172b" />
-
-<img width="976" height="248" alt="GitHub stars growth chart for system prompts leaks repository" src="https://github.com/user-attachments/assets/444e3fcc-9374-4964-afd3-069222713dc0" />
-
 
 ---
 
@@ -177,9 +173,3 @@ Want a specific model or product added? [Open an issue](https://github.com/asgei
 
 Released under the [MIT License](LICENSE).
 
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=asgeirtj/system_prompts_leaks&type=Date)](https://www.star-history.com/#asgeirtj/system_prompts_leaks&Date)
-
-
-<img width="1235" height="1274" alt="image" src="https://github.com/user-attachments/assets/7361a428-aa42-4366-8a69-12a77ee43514" />
